@@ -1,0 +1,9 @@
+﻿  포켓몬스터1219.cpp
+C:\Users\user\Desktop\프로그램\유니티 프로그래밍 수업 복습\C언어\1219 복습\Project1\포켓몬스터1219.cpp(128,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\user\Desktop\프로그램\유니티 프로그래밍 수업 복습\C언어\1219 복습\Project1\포켓몬스터1219.cpp(386,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\프로그램\유니티 프로그래밍 수업 복습\C언어\1219 복습\Project1\포켓몬스터1219.cpp(389,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\프로그램\유니티 프로그래밍 수업 복습\C언어\1219 복습\Project1\포켓몬스터1219.cpp(392,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\프로그램\유니티 프로그래밍 수업 복습\C언어\1219 복습\Project1\포켓몬스터1219.cpp(532,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\프로그램\유니티 프로그래밍 수업 복습\C언어\1219 복습\Project1\포켓몬스터1219.cpp(551,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\프로그램\유니티 프로그래밍 수업 복습\C언어\1219 복습\Project1\포켓몬스터1219.cpp(1962,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project1.vcxproj -> C:\Users\user\Desktop\프로그램\유니티 프로그래밍 수업 복습\C언어\1219 복습\Project1\Debug\Project1.exe

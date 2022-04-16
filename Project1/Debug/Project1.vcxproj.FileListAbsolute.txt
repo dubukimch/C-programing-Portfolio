@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\프로그램\유니티 프로그래밍 수업 복습\C언어\1219 복습\Project1\Debug\Project1.exe
+C:\Users\user\Desktop\프로그램\유니티 프로그래밍 수업 복습\C언어\1219 복습\Project1\Debug\Project1.pdb
